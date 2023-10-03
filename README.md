@@ -16,7 +16,7 @@ Medical imaging is a crucial field in healthcare, enabling the visualization of 
 
 Here's a list of reports available in this repository:
 
-1. [**Thermal Imaging Systems**](Reports/README.md): An in-depth analysis of thermal imaging technology, its physics, and its applications in various medical specialties.
+1. [**Thermal Imaging Systems**](Reports/thermal_imaging.pdf): An in-depth analysis of thermal imaging technology, its physics, and its applications in various medical specialties.
 
 2. [**OCT (Optical Coherence Tomography)**](Reports/README.md): A comprehensive report on OCT scanning, including its operational
 fundamentals, versatile applications, and essential quality assurance protocols applicable to OCT technology
